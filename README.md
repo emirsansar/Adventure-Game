@@ -1,8 +1,9 @@
 # Adventure-Game
-This is a text-based adventure game. <br>
-Player has to collect each of the special loots (food, water and firewood) from certain locations (forest, cave, river) by defeating the obstacles in the locatios to win the game. <br>
+<h3> This is a text-based adventure game. </h3> 
+<p>Player has to collect each of the special loots (food, water and firewood) from certain locations (forest, cave, river) by defeating the obstacles in the locatios to win the game. </p>
+<p>Additionally, the player has 3 chances to escape from the battlefields.</p>
 
-"This repository is an enhanced version of the repository I previously <a href="https://github.com/emirsansar/Adventure-Game-java-">uploaded in Java</a> and it is written in .NET 4.8.1."
+<p>"This repository is an enhanced version of the repository I previously <a href="https://github.com/emirsansar/Adventure-Game-java-">uploaded in Java</a> and it is written in .NET 4.8.1."</p>
 
 Here is the UML diagram of the game.
 | UML Diagram |
