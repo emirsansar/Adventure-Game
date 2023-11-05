@@ -8,7 +8,7 @@
 Here is the UML diagram of the game.
 | UML Diagram |
 | ------ |
-|<img src="https://github.com/emirsansar/images/blob/main/advGame/UML.png" width="850" height="650"/>|
+|<img src="https://github.com/emirsansar/images/blob/main/advGame2/UML.png" width="9000" height="650"/>|
 
 Here are the statistic of characters, obtsacles, weapons and armors.
 | Statistics |
@@ -16,6 +16,11 @@ Here are the statistic of characters, obtsacles, weapons and armors.
 |<img src="https://github.com/emirsansar/images/blob/main/advGame/stats.png" width="600" height="400"/>|
 
 Here is a example of the beginng of the game.
+
 | In Game |
 | ------ |
-|<img src="https://github.com/emirsansar/images/blob/main/advGame/ingame.png" width="600" height="400"/>|
+|<img src="https://github.com/emirsansar/images/blob/main/advGame2/console.png" width="500" height="400"/>|
+
+| In Game 2| In Game 3 |
+| ------ | ------ |
+|<img src="https://github.com/emirsansar/images/blob/main/advGame2/console2.png" width="500" height="400"/>|<img src="https://github.com/emirsansar/images/blob/main/advGame2/console3.png" width="500" height="400"/>|
